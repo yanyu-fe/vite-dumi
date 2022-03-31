@@ -1,0 +1,24 @@
+{
+  "name": "vite-dumi",
+  "version": "1.0.0",
+  "description": "vite dumi docs",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "packageManager": "pnpm@6.23.3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanyu-fe/vite-dumi.git"
+  },
+  "keywords": [
+    "dumi",
+    "vuepress",
+    "vue3"
+  ],
+  "author": "aibayanyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanyu-fe/vite-dumi/issues"
+  },
+  "homepage": "https://github.com/yanyu-fe/vite-dumi#readme"
+}
