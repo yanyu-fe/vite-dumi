@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/yanyu-fe/vite-dumi/issues"
   },
-  "homepage": "https://github.com/yanyu-fe/vite-dumi#readme"
+  "homepage": "https://github.com/yanyu-fe/vite-dumi#readme",
+  "devDependencies": {
+    "unbuild": "^0.7.2",
+    "vite": "^2.9.1",
+    "vitest": "^0.9.2"
+  }
 }

@@ -12,5 +12,10 @@
     "dumi"
   ],
   "author": "aibayanyu",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "unbuild": "^0.7.2",
+    "vite": "^2.9.1",
+    "vitest": "^0.9.2"
+  }
 }
